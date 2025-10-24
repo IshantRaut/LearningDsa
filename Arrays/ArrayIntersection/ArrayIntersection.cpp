@@ -31,7 +31,7 @@ int main(){
         1,2,3,4,5
     };
     vector<int> arr2 = {
-        2,3,5,7,11
+        2,3,4,4,5
     };
     vector<int> res = findArrayIntersection(arr1, arr2);
     for(int val : res){
