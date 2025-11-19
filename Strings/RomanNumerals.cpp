@@ -45,7 +45,8 @@ Output: Integer value: 1994
 
 int main() {
     Solution sol;
-    string s = "MCMXCIV"; 
+    //string s = "M C M X C I V"
+    string s = "LVIII"; 
     int result = sol.romanToInt(s);
     
     // Print the result
